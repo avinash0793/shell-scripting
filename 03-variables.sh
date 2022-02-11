@@ -9,6 +9,5 @@ echo value of b = $b
  y=10
  echo ${x}X${y} = 100
 
- date=(date =%F)
 
- echo todays date is $date
+ echo course name = course_name
