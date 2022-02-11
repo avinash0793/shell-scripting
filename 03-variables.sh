@@ -8,3 +8,7 @@ echo value of b = $b
  x=10
  y=10
  echo ${x}X${y} = 100
+
+ date=(date =%F)
+
+ echo todays date is $date
