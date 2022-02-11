@@ -10,4 +10,4 @@ echo value of b = $b
  echo ${x}X${y} = 100
 
 
- echo course name = course_name
+ echo course name = $course_name
