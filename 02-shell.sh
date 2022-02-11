@@ -1,5 +1,5 @@
 #!/bin/bash
 
 
-echo hello world
-echo welcome
+echo -e"helloworld\nwelcome"
+echo -e"variables\nfunctions"
